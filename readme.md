@@ -1,14 +1,15 @@
-🚀 Meus Estudos de Lógica e Python
+#🚀 Meus Estudos de Lógica e Python
 
 
 Bem-vindo(a) ao meu repositório de estudos! Aqui eu armazeno os códigos e exercícios que desenvolvo para praticar lógica de programação, estruturas de dados e a linguagem Python.
 
-🛠️ Tecnologias Utilizadas
+
+##🛠️ Tecnologias Utilizadas
 Linguagem: Python
 
 Ambiente: VS Code 
 
-📂 O que você vai encontrar aqui?
+##📂 O que você vai encontrar aqui?
 Este repositório está organizado com foco em consolidar os fundamentos da programação:
 
 Estruturas de Repetição: (for, while)
