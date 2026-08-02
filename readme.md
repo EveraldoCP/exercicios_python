@@ -1,4 +1,6 @@
 🚀 Meus Estudos de Lógica e Python
+
+
 Bem-vindo(a) ao meu repositório de estudos! Aqui eu armazeno os códigos e exercícios que desenvolvo para praticar lógica de programação, estruturas de dados e a linguagem Python.
 
 🛠️ Tecnologias Utilizadas
